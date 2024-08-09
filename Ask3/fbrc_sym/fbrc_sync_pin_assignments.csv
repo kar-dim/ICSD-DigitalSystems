@@ -1,0 +1,27 @@
+# Copyright (C) 1991-2010 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II Version 9.1 Build 350 03/24/2010 Service Pack 2 SJ Full Version
+# File: E:\SVN\DE2_115\trunk\test\de2_115_golden_sopc\de2_115_golden_sopc.csv
+# Generated on: Fri Jun 18 14:51:18 2010
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved
+clk,Input,PIN_Y2,2,B2_N0,3.3-V LVTTL,
+q[3],Output,PIN_E24,7,B7_N1,2.5 V,
+q[2],Output,PIN_E25,7,B7_N1,2.5 V,
+q[1],Output,PIN_E22,7,B7_N0,2.5 V,
+q[0],Output,PIN_E21,7,B7_N0,2.5 V,
+reset,Input,PIN_Y23,5,B5_N2,2.5 V,

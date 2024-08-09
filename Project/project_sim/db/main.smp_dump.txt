@@ -1,0 +1,18 @@
+
+State Machine - |main|current_state
+Name current_state.AFTER_F0 current_state.WAIT_F0 current_state.WAIT_EQ current_state.WAIT_OPERAND2 current_state.WAIT_OPERATOR current_state.WAIT_OPERAND1 
+current_state.WAIT_OPERAND1 0 0 0 0 0 0 
+current_state.WAIT_OPERATOR 0 0 0 0 1 1 
+current_state.WAIT_OPERAND2 0 0 0 1 0 1 
+current_state.WAIT_EQ 0 0 1 0 0 1 
+current_state.WAIT_F0 0 1 0 0 0 1 
+current_state.AFTER_F0 1 0 0 0 0 1 
+
+State Machine - |main|state
+Name state.AFTER_F0 state.WAIT_F0 state.WAIT_EQ state.WAIT_OPERAND2 state.WAIT_OPERATOR state.WAIT_OPERAND1 
+state.WAIT_OPERAND1 0 0 0 0 0 0 
+state.WAIT_OPERATOR 0 0 0 0 1 1 
+state.WAIT_OPERAND2 0 0 0 1 0 1 
+state.WAIT_EQ 0 0 1 0 0 1 
+state.WAIT_F0 0 1 0 0 0 1 
+state.AFTER_F0 1 0 0 0 0 1 
