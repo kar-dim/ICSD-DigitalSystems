@@ -1,2 +1,2 @@
 # ICSD-DigitalSystems
-Εργασίες (σε Verilog) που εκπονήθηκαν κατα τη διάρκεια της φοίτησης (2013-2019) στο Τμήμα Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων 
+Some Verilog projects, implemented as part of my university coursework (2013-2019, Information and Communications Systems Engineering, University of the Aegean).
